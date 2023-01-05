@@ -320,4 +320,4 @@ Spin the database server instance and attach 3 volumes to it.
 
  ![wordpressLogin](./Images/Step6-Wordpress_installed_successfully.PNG)
 
- ![Wordpress_dashboard[def](./Images/Step6-Wordpress-Dashboard.PNG)
+ ![Wordpress_dashboard](./Images/Step6-Wordpress-Dashboard.PNG)
